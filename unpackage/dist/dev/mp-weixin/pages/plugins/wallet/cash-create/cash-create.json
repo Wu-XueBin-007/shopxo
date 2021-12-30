@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "余额提现",
+  "usingComponents": {
+    "component-no-data": "/components/no-data/no-data"
+  }
+}

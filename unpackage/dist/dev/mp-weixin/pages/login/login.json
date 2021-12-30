@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "登陆",
+  "usingComponents": {
+    "component-popup": "/components/popup/popup"
+  }
+}

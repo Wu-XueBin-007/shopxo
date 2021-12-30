@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "数据统计",
+  "usingComponents": {
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

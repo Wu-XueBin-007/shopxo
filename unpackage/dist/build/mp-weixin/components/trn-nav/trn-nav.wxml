@@ -1,0 +1,1 @@
+<view><view class="{{['trn-nav-top '+(propEnt||'')]}}" style="{{('background:'+(propBackgroundColor||'#fff')+';'+nav_style)}}"><block wx:if="{{(propTitle||null)!=null}}"><view class="trn-nav-top-title single-text">{{propTitle}}</view></block><slot></slot></view></view>

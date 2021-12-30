@@ -1,0 +1,20 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "component-search": "/components/search/search",
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-icon-nav": "/components/icon-nav/icon-nav",
+    "component-banner": "/components/slider/slider",
+    "component-countdown": "/components/countdown/countdown",
+    "component-layout": "/components/layout/layout",
+    "component-badge": "/components/badge/badge",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line",
+    "component-copyright": "/components/copyright/copyright",
+    "component-online-service": "/components/online-service/online-service"
+  }
+}

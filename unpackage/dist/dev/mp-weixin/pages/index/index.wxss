@@ -1,0 +1,182 @@
+/**
+ * 顶部内容
+ */
+.home-top-nav-content {
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    min-height: 410rpx;
+    padding-top: calc(25px + 8px);
+}
+.home-top-nav-title {
+    font-weight: bold;
+    text-align: left;
+    padding: 2px 250rpx 0 20rpx;
+    height: 37px;
+    font-size: 42rpx;
+}
+/**
+ * 搜索
+ */
+.search-fixed-seat {
+    padding-top: 70rpx;
+}
+.search-content-fixed {
+    position: fixed !important;
+    top: 0;
+    z-index: 11;
+    padding-bottom: 20rpx;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    padding-top: 25px;
+}
+
+
+
+
+
+/**
+ * 消息
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * 轮播
+ */
+.banner-content {
+    margin-top: 26rpx;
+}
+/**
+ * 推荐文章
+ */
+.article-list .new-icon {
+    width: 130rpx !important;
+    height: 42rpx !important;
+}
+.article-list .right-content {
+    width: calc(100% - 150rpx);
+}
+.article-list .right-content swiper {
+    height: 40rpx;
+}
+/**
+ * 楼层数据
+ */
+.floor-list {
+    position: relative;
+}
+.floor-list .word .word-icon:not(:last-child) {
+    margin-right: 20rpx;
+}
+.floor-list .word image {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.floor-list .goods-list .goods {
+    width: calc(50% - 10rpx);
+    float: left;
+    padding-bottom: 10rpx;
+    margin-bottom: 20rpx;
+}
+.floor-list .goods-list .goods:nth-of-type(2n + 1) {
+    margin-right: 10rpx;
+}
+.floor-list .goods-list .goods:nth-of-type(2n) {
+    margin-left: 10rpx;
+}
+.floor-list .goods-list .goods .goods-img {
+    width: 100%;
+    height: 380rpx !important;
+}
+/*
+ * 限时秒杀 - 插件
+ */
+.seckill .goods-list swiper {
+    height: 425rpx !important;
+}
+.seckill .goods-list .item .goods-img {
+    width: 100%;
+    height: 240rpx;
+}
+.seckill .goods-list .goods-base .icon {
+    right: 20rpx;
+    bottom: 13rpx;
+}
+/**
+ * 购买记录 - 插件
+ */
+.plugins-salerecords swiper {
+    height: 506rpx;
+}
+.plugins-salerecords swiper-item {
+    border-bottom: 1px solid #f7f7f7;
+}
+.plugins-salerecords image {
+    width: 40rpx !important;
+    height: 40rpx !important;
+    border-radius: 50%;
+}
+.plugins-salerecords .item-content {
+    width: 24%;
+}
+.plugins-salerecords .item-content:nth-child(1) {
+    width: 36%;
+}
+.plugins-salerecords .item-content:nth-child(2) {
+    width: 40%;
+}
+/**
+ * 标签 - 秒杀单独修改样式
+ */
+.seckill .plugins-label-bottom-left,
+.seckill .plugins-label-bottom-center,
+.seckill .plugins-label-bottom-right {
+    bottom: calc(100% - 240rpx);
+}
+/**
+ * 首页中间广告- 插件
+ */
+.plugins-homemiddleadv .item {
+    width: calc(50% - 10rpx);
+}
+.plugins-homemiddleadv .item:nth-of-type(2n + 1) {
+    float: left;
+}
+.plugins-homemiddleadv .item:nth-of-type(2n) {
+    float: right;
+}
+/**
+ * 弹屏广告 - 插件
+ */
+.plugins-popupscreen {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 20;
+    background-color: rgb(0 0 0 / 0.7);
+}
+.plugins-popupscreen .close {
+    right: 10%;
+    top: 0;
+    z-index: 1;
+}
+.plugins-popupscreen .content {
+    margin-top: calc(50vh - 200rpx) !important;
+}
+.plugins-popupscreen .content image {
+    width: 600rpx;
+}
+

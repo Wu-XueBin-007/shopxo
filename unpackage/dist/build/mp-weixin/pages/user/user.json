@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "用户中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-badge": "/components/badge/badge",
+    "component-trn-nav": "/components/trn-nav/trn-nav",
+    "component-copyright": "/components/copyright/copyright",
+    "component-online-service": "/components/online-service/online-service"
+  }
+}

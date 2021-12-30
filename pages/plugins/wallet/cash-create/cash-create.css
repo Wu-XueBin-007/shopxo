@@ -1,0 +1,13 @@
+/*
+* 表单
+*/
+.page {
+    padding-bottom: 110rpx;
+}
+
+/*
+ * 验证过期
+ */
+.overdue {
+    padding-top: 30%;
+}

@@ -1,0 +1,7 @@
+/*
+* 表单
+*/
+.page {
+    padding-bottom: 110rpx;
+}
+

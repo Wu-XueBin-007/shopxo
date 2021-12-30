@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "页面设计",
+  "usingComponents": {
+    "component-layout": "/components/layout/layout",
+    "component-search": "/components/search/search",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

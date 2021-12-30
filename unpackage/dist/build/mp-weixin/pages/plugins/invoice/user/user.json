@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "我的发票",
+  "usingComponents": {
+    "component-no-data": "/components/no-data/no-data"
+  }
+}

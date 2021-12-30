@@ -1,0 +1,8 @@
+/**
+ * 头像
+ */
+.avatar {
+    width: 45rpx;
+    height: 45rpx;
+}
+

@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "店铺商品搜索",
+  "usingComponents": {
+    "component-popup": "/components/popup/popup",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

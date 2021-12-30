@@ -1,0 +1,1 @@
+.page{padding-bottom:110rpx}.select-address{box-sizing:border-box;height:70rpx;line-height:70rpx;padding:0 10rpx}.select-address .section{width:33.33%;box-sizing:border-box}.select-address .section:not(:first-child){padding:0 5rpx}.idcard-container{background:#e6e6e6}.idcard-container .form-upload-data .item image{width:256rpx;height:170rpx;border:1px dashed #c2c2c2}

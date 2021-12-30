@@ -1,0 +1,1 @@
+.trn-nav-top{padding-top:25px;opacity:0;width:100%;z-index:10;position:fixed;top:0;left:0}.trn-nav-top .trn-nav-top-title{font-size:36rpx;text-align:left;padding:12px 250rpx 0 20rpx;height:37px;color:#000}

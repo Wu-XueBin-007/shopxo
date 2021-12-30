@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "订单确认",
+  "usingComponents": {
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-popup": "/components/popup/popup",
+    "component-no-data": "/components/no-data/no-data"
+  }
+}

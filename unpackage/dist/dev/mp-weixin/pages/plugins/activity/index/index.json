@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "所有活动",
+  "usingComponents": {
+    "component-banner": "/components/slider/slider",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "博客",
+  "usingComponents": {
+    "component-search": "/components/search/search",
+    "component-banner": "/components/slider/slider",
+    "component-countdown": "/components/countdown/countdown",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

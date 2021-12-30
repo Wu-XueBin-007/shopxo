@@ -1,0 +1,23 @@
+
+.banner {
+    background: #fff;
+    margin-bottom: 20rpx;
+    border-radius: 20rpx;
+    overflow: hidden;
+}
+.banner image {
+    min-width: 100%;
+}
+.banner-mini,
+.banner-mini image {
+    height: 200rpx !important;
+}
+.banner-default,
+.banner-default image {
+    height: 320rpx !important;
+}
+.banner-max,
+.banner-max image {
+    height: 420rpx !important;
+}
+

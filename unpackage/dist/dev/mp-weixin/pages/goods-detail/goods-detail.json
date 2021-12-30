@@ -1,0 +1,18 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-rate": "/uni_modules/uni-rate/components/uni-rate/uni-rate",
+    "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html",
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-popup": "/components/popup/popup",
+    "component-badge": "/components/badge/badge",
+    "component-countdown": "/components/countdown/countdown",
+    "component-no-data": "/components/no-data/no-data",
+    "component-trn-nav": "/components/trn-nav/trn-nav",
+    "component-bottom-line": "/components/bottom-line/bottom-line",
+    "component-online-service": "/components/online-service/online-service"
+  }
+}

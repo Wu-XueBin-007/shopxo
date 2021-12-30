@@ -1,0 +1,24 @@
+
+.countdown {
+    line-height: 38rpx;
+}
+.countdown view {
+    float: right;
+}
+.countdown .timer-title {
+    color: #666;
+    margin-right: 10rpx;
+}
+.countdown .time {
+    padding: 0 8rpx;
+    border-radius: 8rpx;
+    background-color: #F80001;
+    color: #fff;
+    min-width: 40rpx;
+    text-align: center;
+}
+.countdown .ds {
+    color: #4B5459;
+    padding: 0 8rpx;
+}
+

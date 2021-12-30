@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "限时秒杀",
+  "usingComponents": {
+    "component-banner": "/components/slider/slider",
+    "component-countdown": "/components/countdown/countdown",
+    "component-no-data": "/components/no-data/no-data",
+    "component-bottom-line": "/components/bottom-line/bottom-line"
+  }
+}

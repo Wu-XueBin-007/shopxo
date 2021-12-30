@@ -1,0 +1,7 @@
+/*
+* 组队签到
+*/
+.user-team-container {
+    padding-top: 35%;
+}
+

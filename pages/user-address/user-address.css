@@ -1,0 +1,21 @@
+.page {
+    padding-bottom: 120rpx;
+}
+.address .item-icon {
+    width: 30rpx;
+    height: 35rpx !important;
+}
+.address-alias {
+    padding: 0 10rpx;
+}
+.address .text {
+    line-height: 44rpx;
+    width: calc(100% - 40rpx);
+}
+.default-checkbox image {
+    width: 35rpx;
+    height: 35rpx !important;
+}
+.submit-list button {
+    width: calc(50% - 10rpx);
+}

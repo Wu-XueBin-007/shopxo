@@ -1,0 +1,11 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "uni-swipe-action": "/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-no-data": "/components/no-data/no-data"
+  }
+}

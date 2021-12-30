@@ -1,0 +1,59 @@
+
+.no-data-box {
+    padding: 10% 0;
+    text-align: center;
+}
+.no-data-box image {
+    width: 160rpx;
+    margin-bottom: 30rpx;
+}
+.no-data-box .no-data-tips {
+    font-size: 28rpx;
+    color: #a6a6a6;
+}
+.no-data-loading text {
+    color: #999;
+}
+
+
+.data-bottom-line {
+    padding: 40rpx;
+    overflow: hidden;
+}
+.data-bottom-line view {
+    width: 33.3%;
+}
+.data-bottom-line .left,
+.data-bottom-line .right {
+    margin-top: 8px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.data-bottom-line .msg {
+    color: #999;
+    text-align: center;
+    font-size: 24rpx;
+}
+.data-bottom-line .left,
+.data-bottom-line .msg {
+    float: left;
+}
+.data-bottom-line .right {
+    float: right;
+}
+
+.address-logo {
+    width: 140rpx;
+    height: 140rpx !important;
+}
+.address .item-icon {
+    width: 30rpx;
+    height: 35rpx !important;
+}
+.address-alias {
+    padding: 0 10rpx;
+}
+.address .text {
+    line-height: 44rpx;
+    width: calc(100% - 40rpx);
+}
+

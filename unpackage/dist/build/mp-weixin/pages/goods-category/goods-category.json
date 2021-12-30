@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "商品分类",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "component-search": "/components/search/search",
+    "component-quick-nav": "/components/quick-nav/quick-nav",
+    "component-no-data": "/components/no-data/no-data"
+  }
+}
